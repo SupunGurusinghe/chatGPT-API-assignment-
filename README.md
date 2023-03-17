@@ -9,5 +9,5 @@ To run this project, you need to have the following:
 
 ## Installation
 * Clone this repository using git clone https://github.com/SupunGurusinghe/chatGPT-API-assignment-.git.
-* Create an OpenAI API key by following the instructions <a href="https://beta.openai.com/signup/">here</a..
+* Create an OpenAI API key by following the instructions <a href="https://beta.openai.com/signup/">here</a>
 * Set your OpenAI API key as an environment variable named OPENAI_API_KEY.
